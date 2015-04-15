@@ -1,3 +1,10 @@
 venv
 *.pyc
 staticfiles
+.DS_Store
+*.log
+*.db
+build
+dist
+.ropeproject
+*.sqlite3
